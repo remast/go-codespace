@@ -9,9 +9,6 @@
       }
   },
   "postStartCommand": "git config --global --add safe.directory ${containerWorkspaceFolder}",
-  "features": {
-    "golang": "latest"
-  },
   "customizations": {
     "vscode": {
         "extensions": [
